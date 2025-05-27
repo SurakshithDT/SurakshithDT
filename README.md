@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SurakshithDT
-- 👀 I’m interested in Data Science, ML, Software Dev and testing, Full-Stack
-- 🌱 I’m currently learning Nural-Networks
-- 💞️ I’m looking to collaborate on DataSc
+- 👀 I’m interested in CyberSecurity,Data Science, ML, Software Dev and testing, Full-Stack
+- 🌱 I’m currently learning Cybersecurity
+- 💞️ I’m looking to collaborate on DataScience
 - 📫 How to reach me contact surakshithsurakshith5@gmail.com 
 - 😄 Pronouns: He/Him
 
