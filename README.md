@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SurakshithDT
-- 👀 I’m interested in CyberSecurity,Data Science, ML, Software Dev and testing, Full-Stack
+- 👀 I’m interested in CyberSecurity,DevOps, ML, Software Dev and testing, Full-Stack
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Automation and DevOps Challenges
-- My portfolio - surakshith.vercel.app
+- My portfolio - https://surakshith.vercel.app
 - 📫 How to reach me contact surakshithdt@gmail.com 
 - 😄 Pronouns: He/Him
 
